@@ -76,6 +76,8 @@ int suid_dumpable = 0;
 // to prevent them from being executed. - NightShadow
 const char *BannedApps[] =
 {
+	"me.weishu.exp",                 // Tai Chi
+	"org.meowcat.edxposed.manager",  // EdXposed Manager
 	"com.zhiliaoapp.musically",      // Tik Tok
 	"com.zhiliaoapp.musically:push", // Tik Tok
 	"com.ss.android.ugc.trill",      // Tik Tok (alternate)
